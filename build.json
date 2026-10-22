@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "build_id": "c13cc25b7b8b09d9",
-  "built_at_utc": "2026-10-22T21:59:17.740562+00:00",
+  "build_id": "4d6f853ec171db43",
+  "built_at_utc": "2026-10-22T22:25:02.744707+00:00",
   "launch_config": {
     "args": [],
     "canvasResizePolicy": 2,
@@ -10,13 +10,13 @@
     "executable": "index",
     "experimentalVK": false,
     "fileSizes": {
-      "index.pck": 38178684,
+      "index.pck": 38179036,
       "index.wasm": 39514754
     },
     "focusCanvas": true,
     "gdextensionLibs": [],
     "godotPoolSize": 4,
-    "mainPack": "index.pck?v=37b211d38ad933fc"
+    "mainPack": "index.pck?v=3abb3cc3b16db9a1"
   },
   "files": [
     {
@@ -31,8 +31,8 @@
     },
     {
       "file": "index.pck",
-      "bytes": 38178684,
-      "sha256": "37b211d38ad933fc2cf52f292d4437940c6c0d986b7246be99d0670050b46b61"
+      "bytes": 38179036,
+      "sha256": "3abb3cc3b16db9a1c3e1595f22c29ad2fe0981f1da8f98410f355f1478aaf156"
     },
     {
       "file": "index.wasm",
@@ -65,5 +65,5 @@
       "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
     }
   ],
-  "total_bytes": 78023744
+  "total_bytes": 78024096
 }
