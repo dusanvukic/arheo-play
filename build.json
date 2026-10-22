@@ -1,15 +1,33 @@
 {
-  "built_at_utc": "2026-10-22T18:57:50.786132+00:00",
+  "format": 2,
+  "build_id": "39a739ed9b4e5d7c",
+  "built_at_utc": "2026-10-22T19:16:02.649239+00:00",
+  "launch_config": {
+    "args": [],
+    "canvasResizePolicy": 2,
+    "emscriptenPoolSize": 8,
+    "ensureCrossOriginIsolationHeaders": true,
+    "executable": "index",
+    "experimentalVK": false,
+    "fileSizes": {
+      "index.pck": 38096404,
+      "index.wasm": 39514754
+    },
+    "focusCanvas": true,
+    "gdextensionLibs": [],
+    "godotPoolSize": 4,
+    "mainPack": "index.pck?v=ad36f1cd7149b721"
+  },
   "files": [
     {
       "file": "index.html",
-      "bytes": 5489,
-      "sha256": "bd9986f759989a97e42a68806498587151eee81f0fce804c77840c7da5bfea3b"
+      "bytes": 7921,
+      "sha256": "6d59d989326ddf997bf470763733e9272b618f5257dc0fa2a3c149168858e914"
     },
     {
       "file": "index.js",
-      "bytes": 279815,
-      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+      "bytes": 280405,
+      "sha256": "c9e1486808587cbcdfb5c45f8082a86520b7268ad9ce26164809c674d3662cbc"
     },
     {
       "file": "index.pck",
@@ -47,5 +65,5 @@
       "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
     }
   ],
-  "total_bytes": 77938442
+  "total_bytes": 77941464
 }
