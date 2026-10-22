@@ -1,10 +1,10 @@
 {
-  "built_at_utc": "2026-10-22T08:33:29.890349+00:00",
+  "built_at_utc": "2026-10-22T18:57:50.786132+00:00",
   "files": [
     {
       "file": "index.html",
       "bytes": 5489,
-      "sha256": "25e07f0196ee3235de8566fb9c4b3433fbdc798e62a574fee57cfe67ffcb102a"
+      "sha256": "bd9986f759989a97e42a68806498587151eee81f0fce804c77840c7da5bfea3b"
     },
     {
       "file": "index.js",
@@ -13,8 +13,8 @@
     },
     {
       "file": "index.pck",
-      "bytes": 38088704,
-      "sha256": "a582f46970cbdd57daa68db07ebc09c3c0d07851148481fccdd3971c39d27a0f"
+      "bytes": 38096404,
+      "sha256": "ad36f1cd7149b7217be9a1ddf5044619149ab8552617bda384472b71dbbbdea8"
     },
     {
       "file": "index.wasm",
@@ -47,5 +47,5 @@
       "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
     }
   ],
-  "total_bytes": 77930742
+  "total_bytes": 77938442
 }
