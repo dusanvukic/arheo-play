@@ -266,6 +266,21 @@ const engine = new Engine(GODOT_CONFIG);
     notice.textContent = error.message || 'Igra trenutno nije dostupna. Osveži stranicu da pokušaš ponovo.';
 });
 </script>
-	</body>
+	<!-- ARHEO_POINTER_CAPTURE -->
+<script>
+// Keep mouseup on the game canvas even when the cursor crosses its edge.
+// Pointer capture lasts only for this press and releases automatically on pointerup.
+(() => {
+    const canvas = document.getElementById("canvas");
+    if (!canvas || !canvas.setPointerCapture) return;
+    canvas.addEventListener("pointerdown", (event) => {
+        if (event.pointerType === "mouse" && event.button === 0 && event.isPrimary) {
+            canvas.setPointerCapture(event.pointerId);
+        }
+    });
+})();
+</script>
+<!-- /ARHEO_POINTER_CAPTURE -->
+</body>
 </html>
 
