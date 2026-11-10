@@ -1,7 +1,7 @@
 {
   "format": 2,
-  "build_id": "f2dd993cdb227d64",
-  "built_at_utc": "2026-11-10T20:13:21.985071+00:00",
+  "build_id": "d301466f03916e21",
+  "built_at_utc": "2026-11-10T20:24:02.298878+00:00",
   "launch_config": {
     "args": [],
     "canvasResizePolicy": 2,
@@ -16,7 +16,7 @@
     "focusCanvas": true,
     "gdextensionLibs": [],
     "godotPoolSize": 4,
-    "mainPack": "index.pck?v=86f1e9189e2cbc5f"
+    "mainPack": "index.pck?v=1fd3d11b784a5969"
   },
   "files": [
     {
@@ -32,7 +32,7 @@
     {
       "file": "index.pck",
       "bytes": 71809384,
-      "sha256": "86f1e9189e2cbc5f07a8b07ad0acf17dcb42636818eeebac468e0ac985c446d3"
+      "sha256": "1fd3d11b784a5969a5d2ad9be3e8c6e68871124e1e9e9ed6da175d3d87263f1d"
     },
     {
       "file": "index.wasm",
